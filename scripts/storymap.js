@@ -1,3 +1,5 @@
+// The code below establishes the storymap, including the geoJSON layers and markers as the user moves through the chapters.
+
 $(window).on('load', function() {
   var documentSettings = {};
 
