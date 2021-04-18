@@ -1,3 +1,1 @@
-/* GeoJSON layer showing route from Bootleg Brew Co. to Boomstick Brewing Co. */
-
 {"type":"FeatureCollection","features":[{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[-57.940306663513184,48.950746452515894],[-57.941288352012634,48.95113044211206],[-57.94219493865967,48.95163420379769]]}}]}
