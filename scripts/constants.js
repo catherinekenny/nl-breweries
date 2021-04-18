@@ -1,3 +1,5 @@
+// The code below defines a variety of variables, establishing a connection between the variables and titles in the Google Sheets document.
+
 var constants = {
 	// Storymapap Info
   _mapTitle: 'Storymap Title',
